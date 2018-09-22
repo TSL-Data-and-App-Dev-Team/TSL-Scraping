@@ -19,5 +19,9 @@ for link in soup.findAll('a'):
             print(content.strip())
         except:
             print(' ')
+            
+  #ToDo lists:
+#write the contents into File
+
 
 
